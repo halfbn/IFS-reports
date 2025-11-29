@@ -1,2 +1,2 @@
 # IFS-reports
-Raports from Digital forensics classes at Wrocław Univercity of Science and Technology
+Raports from Digital Forensics classes at Wrocław University of Science and Technology
